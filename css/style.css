@@ -1664,3 +1664,19 @@ html {
         width: 75%;
     }
 }
+.download-btn {
+    display: inline-block;
+    padding: 14px 40px;
+    border: 2px solid #333;
+    text-decoration: none;
+    color: #333;
+    font-size: 14px;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+.download-btn:hover {
+    background-color: #333;
+    color: white;
+}
